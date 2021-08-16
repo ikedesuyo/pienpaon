@@ -27,7 +27,8 @@
 }
 
 .footer-logo{
-  list-style:none;
+  float:left;
+  font-size:30px;
 }
 
 .footer-list li{
