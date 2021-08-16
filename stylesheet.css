@@ -8,6 +8,10 @@
   height:1000px;
 }
 
+.footer{
+  height:200px;
+}
+
 .header-logo{
   color:#FFFFFF;
   font-size:100px;
@@ -23,5 +27,9 @@
 }
 
 .footer-logo{
+  list-style:none;
+}
+
+.footer-list li{
   list-style:none;
 }
