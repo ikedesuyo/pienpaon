@@ -11,10 +11,7 @@
 .header-logo{
   color:#FFFFFF;
   font-size:100px;
-}
-
-.header-list{
-
+  float:left;
 }
 
 li{
