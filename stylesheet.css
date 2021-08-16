@@ -26,6 +26,13 @@
   padding:30px 50px;
 }
 
+.copy-container h1{
+  font-size:30px;
+}
+.copy-container h2{
+  font-size:20px;
+}
+
 .footer-logo{
   float:left;
   font-size:30px;
