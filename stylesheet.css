@@ -13,9 +13,11 @@
 }
 
 .header-list{
-  float:left;
+
 }
 
 li{
   color:#FFFFFF;
+  list-style:none;
+  float:left;
 }
