@@ -2,7 +2,13 @@
   background-color:#440000;
   height:200px;
 }
+
 .main{
   background-color:#FFD700;
   height:1000px;
+}
+
+
+.header-list{
+  float:left;
 }
