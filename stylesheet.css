@@ -45,3 +45,8 @@
 .footer-list li{
   list-style:none;
 }
+
+img{
+  height:100px;
+  width:200px;
+}
