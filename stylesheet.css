@@ -37,10 +37,6 @@
   float:left;
 }
 
-.contents-item li{
-  list-style:none;
-}
-
 .footer-logo{
   float:left;
   font-size:30px;
@@ -57,4 +53,5 @@ img{
 
 a{
   color:#440000;
+  list-style:none;
 }
