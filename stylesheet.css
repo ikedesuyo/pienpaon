@@ -1,5 +1,5 @@
 .header{
-  background-color:#440000;
+  background-color:440000#;
   height:100px;
 }
 
@@ -49,4 +49,8 @@
 img{
   height:250px;
   width:400px;
+}
+
+a{
+  color:440000#;
 }
