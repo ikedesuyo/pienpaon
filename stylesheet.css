@@ -37,6 +37,10 @@
   float:left;
 }
 
+.contents-item li{
+  list-style:none;
+}
+
 .footer-logo{
   float:left;
   font-size:30px;
