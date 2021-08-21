@@ -6,6 +6,7 @@
 .main{
   background-color:#FFD700;
   height:10000px;
+  padding-left:30px;
 }
 
 .footer{
@@ -34,7 +35,7 @@
 }
 
 .contents-item{
-  padding-left:30px;
+  
 }
 
 .footer-logo{
