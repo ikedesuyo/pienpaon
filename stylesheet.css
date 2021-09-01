@@ -60,6 +60,15 @@ a{
   list-style:none;
 }
 
+.contents-tatenaga{
+  height:400px;
+  width:300px;
+}
+.contents-yokonaga{
+  height:300px;
+  width:400px;
+}
+
 @media screen and(max-width: 480px) {
     img {
     border: 0;
