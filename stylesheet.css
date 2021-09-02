@@ -63,10 +63,12 @@ a{
 .contents-tatenaga{
   height:400px;
   width:300px;
+   float:left;
 }
 .contents-yokonaga{
   height:300px;
   width:400px;
+   float:left;
 }
 
 @media screen and(max-width: 480px) {
