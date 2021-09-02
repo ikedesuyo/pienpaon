@@ -50,9 +50,7 @@
 .contents-item{
   height:300px;
   width:400px;
-  padding-left:10px;
-  float:left;
-  
+  padding-left:10px;  
 }
 
 a{
@@ -60,16 +58,6 @@ a{
   list-style:none;
 }
 
-.contents-tatenaga{
-  height:400px;
-  width:300px;
-   float:left;
-}
-.contents-yokonaga{
-  height:300px;
-  width:400px;
-   float:left;
-}
 
 @media screen and(max-width: 480px) {
     img {
